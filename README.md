@@ -21,5 +21,5 @@ npm install --save-dev @types/node-telegram-bot-api
 
 **The MIT License (MIT)**
 
-Copyright © 2019 Yago
+Copyright (c) 2024 REGOSTAR
 
